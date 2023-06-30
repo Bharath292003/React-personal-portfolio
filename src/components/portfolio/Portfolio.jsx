@@ -5,6 +5,7 @@ import IMG2 from '../../assets/E-com-shoes.png'
 import IMG3 from '../../assets/edge-ledger.png'
 import IMG4 from '../../assets/hotel-website.png'
 import IMG5 from '../../assets/parallax-website.png'
+import IMG6 from '../../assets/pic-7.png'
 
 const data = [
   {
@@ -16,27 +17,34 @@ const data = [
   },
   {
     id: 2,
+    image: IMG6,
+    title: 'Personal-portfolio using react',
+    github: "https://github.com/Bharath292003/React-personal-portfolio",
+    demo: "https://bharath292003.github.io/React-personal-portfolio/"
+  },
+  {
+    id: 3,
     image: IMG2,
     title: 'First Project using JS',
     github: "https://github.com/Bharath292003/E-com-shoes-website",
     demo: "https://bharath292003.github.io/E-com-shoes-website/"
   },
   {
-    id: 3,
+    id: 4,
     image: IMG3,
     title: 'edge-ledger',
     github: "https://github.com/Bharath292003/edge-ledger",
     demo: "https://bharath292003.github.io/edge-ledger/"
   },
   {
-    id: 4,
+    id: 5,
     image: IMG4,
     title: 'project using html and css',
     github: "https://github.com/Bharath292003/hotel-website",
     demo: "https://bharath292003.github.io/hotel-website/"
   },
   {
-    id: 5,
+    id: 6,
     image: IMG5,
     title: 'simple parallax website',
     github: "https://github.com/Bharath292003/parallax-webpage",
