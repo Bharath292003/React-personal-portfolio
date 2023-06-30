@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-personal-portfolio/static/css/main.2a0e1ce5.css",
+    "main.js": "/React-personal-portfolio/static/js/main.fc90c912.js",
+    "static/media/person-1.jpg": "/React-personal-portfolio/static/media/person-1.6b73fd246a999fb8e32e.jpg",
+    "static/media/person-3.jpg": "/React-personal-portfolio/static/media/person-3.44ecfad2a6375fe64109.jpg",
+    "static/media/person-4.jpg": "/React-personal-portfolio/static/media/person-4.444607334429938bd177.jpg",
+    "static/media/parallax-website.png": "/React-personal-portfolio/static/media/parallax-website.b2fc1595723eb3102a2a.png",
+    "static/media/hotel-website.png": "/React-personal-portfolio/static/media/hotel-website.7ea0cbfc539b1355a5dd.png",
+    "static/media/edge-ledger.png": "/React-personal-portfolio/static/media/edge-ledger.90a2c9c21b43fb67501d.png",
+    "static/media/person-2.jpg": "/React-personal-portfolio/static/media/person-2.b708b1df606f0528d504.jpg",
+    "static/media/E-com-shoes.png": "/React-personal-portfolio/static/media/E-com-shoes.243b4d1f8a8c79589b4a.png",
+    "static/media/automobile.png": "/React-personal-portfolio/static/media/automobile.5e5686f52ef4316ff863.png",
+    "static/media/Profile picture-modified.png": "/React-personal-portfolio/static/media/Profile picture-modified.69ef2d2ad918033c1469.png",
+    "static/media/pic-3.jpeg": "/React-personal-portfolio/static/media/pic-3.b0a7a8b0f3f776d480de.jpeg",
+    "static/media/Bharath-resume.pdf": "/React-personal-portfolio/static/media/Bharath-resume.3ee49f95808935ad1709.pdf",
+    "index.html": "/React-personal-portfolio/index.html",
+    "main.2a0e1ce5.css.map": "/React-personal-portfolio/static/css/main.2a0e1ce5.css.map",
+    "main.fc90c912.js.map": "/React-personal-portfolio/static/js/main.fc90c912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0e1ce5.css",
+    "static/js/main.fc90c912.js"
+  ]
+}
